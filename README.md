@@ -144,6 +144,6 @@ You can contact me through my email: da4kek@gmail.com.
 [issues-shield]: https://img.shields.io/github/issues/Study-Stuffs/Research-works.svg?style=for-the-badge
 [issues-url]: https://github.com/Study-Stuffs/Research-works/issues
 [license-shield]: https://img.shields.io/github/license/Study-Stuffs/Research-works.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/Study-Stuffs/Research-works/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/anirudhakadark/
