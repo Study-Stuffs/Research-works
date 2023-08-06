@@ -35,3 +35,20 @@ Located just posterior of the central sulcus, a fissure that runs down the side 
 The S1 somatosensory cortex is responsible for the processing of sensations from the body. These sensations are received through receptors located throughout the body that are responsible for detecting sensations such as touch, pain, temperature and proprioception.
 
 **Broadmann area:**
+The broadmann areas of cerebral cortex are defined by its cytoarchitecture.  
+Area 1, 2, 3 are the primary somatosensory cortex (postcentral gyrus).
+*Areas 1,2,3* is the region which is associated with several senses such as the ones for:    
+* Localization of touch, temperature, vibration and pain.
+* sensory perception and proprioception especially the legs, trunk, arms, hands, face and lips.
+* skilled and coordinated orofacial movement. 
+* motor learning
+
+
+#### Secondary Somatosensory Cortex:
+
+The secondary somatosensory cortex, also referred to as S2 is not as well understood as the primary somatosensory cortex, and it is believed that a lot of fibres in this area come from the primary somatosensory cortex.
+
+The S2 cortex is located adjacent to the primary S1 in the upper part of the lateral sulcus, a fissure that separates the frontal and parietal lobes from the temporal lobe.
+
+The cortex is belived to be involved in tactile object recognition and memory. It is suggested that whilst the S1 area receives sensory information, it requires the secondary area to store, process and retain this information.
+
